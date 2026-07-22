@@ -1,9 +1,9 @@
 # 🏆 Competitive Programming & Olimpiade Informatika Solutions
 
-[![Language](https://shields.io)](https://cppreference.com)
+<!-- [![Language](https://shields.io)](https://cppreference.com)
 [![Status](https://shields.io)]()
 [![License](https://shields.io)](LICENSE)
-
+ -->
 Repository ini berisi kumpulan solusi kode (C++) untuk berbagai soal Olimpiade Informatika dan *Competitive Programming*, mulai dari tingkat kabupaten (OSN-K), provinsi (OSN-P), nasional (OSN), hingga platform *online judge* internasional.
 
 ---
@@ -15,15 +15,17 @@ Repository ini berisi kumpulan solusi kode (C++) untuk berbagai soal Olimpiade I
 | Kompetisi | Tahun | Nama Soal | Algoritma / Topik | Solusi C++ |
 | :--- | :---: | :--- | :--- | :---: |
 | OSN-P | 2025 | [A] String Cantik OSN-P | Dynamic Programming | [Lihat Kode](./OSN-P-2025/Kasus-A/main.cpp) |
-| OSN-P | 2025 | [B] Gudang Penyimpanan Kardus | Dynamic Programming | [Lihat Kode](./OSN-P-2025/Kasus-B/main.cpp.cpp) |
+| OSN-P | 2025 | [B] Gudang Penyimpanan Kardus | Dynamic Programming | [Lihat Kode](./OSN-P-2025/Kasus-B/main.cpp) |
 | OSN-P | 2025 | [C] Balada Kemasan Telur | Dynamic Programming | [Lihat Kode](./OSN-P-2025/Kasus-C/main.cpp) |
 | OSN-P | 2025 | [D] Telur Kemasan Balado | Dynamic Programming | [Lihat Kode](./OSN-P-2025/Kasus-D/main.cpp) |
 | OSN-P | 2025 | [E] Tebas Tebang Bambu | Dynamic Programming | [Lihat Kode](./OSN-P-2025/Kasus-E/main.cpp) |
 | OSN-P | 2025 | [F] Kandang Ayam Kandang Bebek | Dynamic Programming | [Lihat Kode](./OSN-P-2025/Kasus-F/main.cpp) |
 
-### 🌐 Online Link (Optional)
-Baca [Soal OSN-P-2025](./OSN-P-2025/Soal/OSNP2025.pdf)  
-Lihat [Pembahasan Semua Soal OSN-P-2025](./OSN-P-2025/Pembahasan/docs-osn-p-2025-final.html) 
+### 🌐 Online Link (Optional)  
+
+Baca PDF [Soal OSN-P-2025](./OSN-P-2025/Soal/OSNP2025.pdf)  
+Lihat versi HTML [Pembahasan Semua Soal OSN-P-2025](./OSN-P-2025/Pembahasan/docs-osn-p-2025-final.html)  
+Lihat versi PDF [Pembahasan Semua Soal OSN-P-2025](./OSN-P-2025/Pembahasan/docs-osn-p-2025-final.pdf)  
 ---
 
 ## 🛠️ Template Kode yang Digunakan
