@@ -1,0 +1,52 @@
+# ====================================================================
+# GITIGNORE KHUSUS C++ (COMPETITIVE PROGRAMMING & OLIMPIADE)
+# ====================================================================
+
+# --- File Hasil Kompilasi & Executables ---
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# --- Folder Hasil Build & Output IDE ---
+# Visual Studio / VS Code
+.vscode/
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.suo
+*.user
+*.pdb
+*.ilk
+*.idb
+
+# Code::Blocks
+*.depend
+*.layout
+bin/
+obj/
+
+# CLion / CMake
+.cmake/
+cmake-build-debug/
+cmake-build-release/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# --- File Input/Output Pengujian Lokal (Opsional) ---
+# Hapus tanda pagar (#) di bawah jika Anda tidak ingin mengunggah file uji coba
+# input.txt
+# output.txt
+
+# --- File Sampah Sistem Operasi ---
+.DS_Store
+Thumbs.db
