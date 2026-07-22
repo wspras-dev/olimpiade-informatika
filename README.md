@@ -23,7 +23,7 @@ Repository ini berisi kumpulan solusi kode (C++) untuk berbagai soal Olimpiade I
 
 ### 🌐 Online Link (Optional)
 
-
+Pembahasan Semua [Soal OSN-P-2025](./OSN-P-2025/pembahasan/pembahasan-soal-osn-p-2025-final.html) 
 ---
 
 ## 🛠️ Template Kode yang Digunakan
