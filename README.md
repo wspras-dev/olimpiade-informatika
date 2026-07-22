@@ -25,7 +25,7 @@ Repository ini berisi kumpulan solusi kode (C++) untuk berbagai soal Olimpiade I
 
 Baca PDF [Soal OSN-P-2025](./OSN-P-2025/Soal/OSNP2025.pdf)  
 Lihat versi HTML [Pembahasan Semua Soal OSN-P-2025](./OSN-P-2025/Pembahasan/docs-osn-p-2025-final.html)  
-Lihat versi PDF [Pembahasan Semua Soal OSN-P-2025](./OSN-P-2025/Pembahasan/docs-osn-p-2025-final.pdf)  
+Lihat versi PDF [Pembahasan Semua Soal OSN-P-2025](./OSN-P-2025/Pembahasan/docs-osn-p-2025.pdf)  
 ---
 
 ## 🛠️ Template Kode yang Digunakan
