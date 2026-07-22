@@ -22,7 +22,7 @@ Repository ini berisi kumpulan solusi kode (C++) untuk berbagai soal Olimpiade I
 | OSN-P | 2025 | [F] Kandang Ayam Kandang Bebek | Dynamic Programming | [Lihat Kode](./OSN-P-2025/Kasus-F/main.cpp) |
 
 ### 🌐 Online Link (Optional)
-Baca [Soal OSN-P-2025](./OSN-P-2025/Soal/OSNP2025.pdf)
+Baca [Soal OSN-P-2025](./OSN-P-2025/Soal/OSNP2025.pdf)  
 Lihat [Pembahasan Semua Soal OSN-P-2025](./OSN-P-2025/Pembahasan/docs-osn-p-2025-final.html) 
 ---
 
