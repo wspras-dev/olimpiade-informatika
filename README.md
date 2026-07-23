@@ -26,6 +26,7 @@ Repository ini berisi kumpulan solusi kode (C++) untuk berbagai soal Olimpiade I
 Baca PDF [Soal OSN-P-2025](./OSN-P-2025/Soal/OSNP2025.pdf)  
 Lihat versi HTML [Pembahasan Semua Soal OSN-P-2025](./OSN-P-2025/Pembahasan/docs-osn-p-2025-final.html)  
 Lihat versi PDF [Pembahasan Semua Soal OSN-P-2025](./OSN-P-2025/Pembahasan/docs-osn-p-2025.pdf)  
+
 ---
 
 ## 🛠️ Template Kode yang Digunakan
@@ -60,12 +61,24 @@ int main() {
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com[USERNAME-ANDA]/[NAMA-REPO-ANDA].git
+   git clone https://github.com/wspras-dev/olimpiade-informatika.git
    ```
 2. **Cara Compile Manual (GCC/g++):**
    ```bash
    g++ -O3 -std=c++20 nama_file.cpp -o main
    ./main
+   ```
+3. **Compile dengan IDE (Integrated Development Environment) C++ offline yang digunakan saat ini.**  
+   * MinGW Developer Studio.  
+   * Code::Blocks.  
+   * Dev-C++.
+   * Clion.
+   ```bash
+   Gunakan runtime minimum gcc 3.x (98) dan disarankan menggunaan versi terbaru gcc 14.x (Winlibs)
+   ```    
+4. **Cara Compile Online (GCC/g++):**
+   ```bash
+   Silahkan gunakan keyword pencarian sperti "Compiler C++ online".
    ```
 
 ---
